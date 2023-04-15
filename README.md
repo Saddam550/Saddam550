@@ -1,6 +1,8 @@
+![I am a professional web developer and WordPress expert. ](https://media.licdn.com/dms/image/D5616AQGEMgSgY4OpWA/profile-displaybackgroundimage-shrink_350_1400/0/1681543411273?e=1686787200&v=beta&t=mxu3p1ScOpfKnm9eJZwJuGcT3S9SXN10rcIeJS18Zjk)
+
 ### Hi there 👋, my name is  Saddam
 #### I am a professional web developer and WordPress expert. 
-![I am a professional web developer and WordPress expert. ](https://media.licdn.com/dms/image/D5616AQGEMgSgY4OpWA/profile-displaybackgroundimage-shrink_350_1400/0/1681543411273?e=1686787200&v=beta&t=mxu3p1ScOpfKnm9eJZwJuGcT3S9SXN10rcIeJS18Zjk)
+
 
 Hello guys, I am a professional web developer and WordPress expert. I'm looking for a remote job. My skill is HTML CSS JavaScript react PHP MySQL and WordPress expert. So if you need a web developer in your work or in your company, you can hire me
 
