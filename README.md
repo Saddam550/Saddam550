@@ -9,21 +9,26 @@ Hello guys, I am a professional web developer and WordPress expert. I'm looking 
 Skills:  HTML / CSS3 / BOOTSTRAP5 / JS / REACT /  PHP / MySQL / WordPress
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning NodeJS 
+- 🌱 I’m currently learning NodeJS
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saddam550)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saddam-hossen-6915991ba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/freelancer.saddam.developer)  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saddam-hossen-6915991ba) 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Saddam550&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saddam550&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saddam550&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saddam550)](https://github.com/ryo-ma/github-profile-trophy)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Saddam550&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saddam550)](https://github.com/anuraghazra/github-readme-stats)
+### 🧝‍♂️ Random Dev Meme
+<img src="https://media.licdn.com/dms/image/C5622AQE600xBTBF5Eg/feedshare-shrink_800/0/1649955252109?e=1692835200&v=beta&t=rbsj17QUapiT_3bnI5-x6l1dH6URT95LwIluInby3e4" width="512px"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saddam550&show_icons=true&count_private=true)  
+---
+[![](https://visitcount.itsvg.in/api?id=Saddam550&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saddam550)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Saddam550)  
-
-![Profile views](https://gpvc.arturio.dev/Saddam550)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
